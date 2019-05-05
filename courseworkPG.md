@@ -159,7 +159,7 @@ The layout chosen is best visual to demonstrate the given datasets. Along with t
 
 ### Interactions
 
-For this part, is to identify how the chosen visualisations interact for others to maniuplate and/or amend the datasets. In this coursework, the only interactive visual is the Pie Chart as the data can be amended and it will be previewed once saved. Whereas for the GeoMaps, unforunatley I have tried to make them as interacted as possible but instead I have used Geojson.io to produce my viuslisation map along with the colour codes as I have uploaded those to github. Therefore, I have used the produced map, and added the link here to view as normal for the purpose of this coursework.
+For this part, is to identify how the chosen visualisations interact for others to maniuplate and/or amend the datasets. In this coursework, the only interactive visual is the Pie Chart as the data can be amended and it will be previewed once saved. Whereas for the GeoMaps, unforunatley I have tried to make them as interacted as possible but instead I have used Geojson.io to produce my viuslisations map along with the colour codes as I have uploaded those to github. Therefore, I have used the produced map, and added the link here to view as normal for the purpose of this coursework.
 
 {|designJustification)}
 
