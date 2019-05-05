@@ -169,7 +169,7 @@ Further work I can introduce if this exercise was asked to be carried out again,
 <a href="https://ibb.co/rx5KtBw"><img src="https://i.ibb.co/T4PDTQg/Validation-Bar-Chart.jpg" alt="Validation-Bar-Chart" border="0"></a>
 The bar chart illustratestates the number of minutes before each of the five attackers that were detected actually were detected. The average number of minutes before the attacks were detected was six hours and 41 minutes. The first attack that was detected was detected 5 hours and 36 minutes after the attack was introduced. The last attack that was detected was 7 hours and 41 minutes after the attack was introduced.
 
-Many takeways from the visualtions introduced in this coursework, as I identified the countries that are mostly infected using certain protocols by using Brut-force passwords approaches. The colour codes, layout and interaction are my main strengths but I have had few obstacles in creating the GeoMaps to code within Litviz.
+Many takeways from the visualisations introduced in this coursework, as I identified the countries that are mostly infected using certain protocols by using Brut-force passwords approaches. The colour codes, layout and interaction are my main strengths but I have had few obstacles in creating the GeoMaps to code within Litviz.
 
 {|validation)}
 
